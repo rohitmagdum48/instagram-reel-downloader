@@ -49,7 +49,7 @@ function App() {
 
     <div className="container bg-gray-100">
 
-      <a href='https://www.instagram.com/rohitmagdum21?igsh=c3dxNThoY2duYTAw' target='_blank' rel='noreferrer' className='flex gap-2 flex-row justify-center items-center'>
+      <a href='https://www.instagram.com/rohitmagdum57?igsh=c3dxNThoY2duYTAw' target='_blank' rel='noreferrer' className='flex gap-2 flex-row justify-center items-center'>
 
         <img className='h-8' src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" srcset="" />
         <h1 className='text-xl text-black font-semibold font-mono'>Made by Rohit</h1>
